@@ -11,6 +11,7 @@
     display: none;
   }
 :root{
+    color: #673ab7;
 }
 body{
     background-color: #ececec;
